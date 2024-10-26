@@ -1,0 +1,13 @@
+# Ignore build directory
+/build/
+
+# Ignore IDE files (if any)
+*.vscode/
+*.idea/
+
+# Ignore compiled files
+*.o
+*.so
+*.exe
+*.out
+*.a
